@@ -13,6 +13,10 @@ from The C# Player's Guide, with some additional features and variations.
 - Select a small, medium or large dungeon.
 - Play different dungeon variants featuring pits and/or monsters.
 
+### Planned
+
+- Updating the (currently) hidden debug Map option to show the layout of the game without spoiling the rooms anything.
+
 ## Technologies
 
 - Java
