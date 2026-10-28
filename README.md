@@ -15,7 +15,7 @@ from The C# Player's Guide, with some additional features and variations.
 
 ### Planned
 
-- Updating the (currently) hidden debug Map option to show the layout of the game without spoiling the rooms anything.
+- Updating the (currently) hidden debug Map option to show the layout of the game without spoiling anything.
 
 ## Technologies
 
