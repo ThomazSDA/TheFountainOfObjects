@@ -5,6 +5,14 @@
 A Java implementation of The Fountain of Objects, a text-based adventure game played in the terminal. This project is based on an exercise
 from The C# Player's Guide, with some additional features and variations.
 
+## How to Play
+
+The game is played by entering text commands in the terminal.
+Type help to display the available commands.
+Use the movement commands to navigate through the dungeon.
+Explore rooms and use the information you discover to progress through the game.
+Follow the game's instructions to achieve your objective.
+
 ## Features
 
 - Navigate through the dungeon.
@@ -34,14 +42,6 @@ from The C# Player's Guide, with some additional features and variations.
 2. Open the project in IntelliJ IDEA.
 3. Configure the appropriate JDK for the project.
 4. Locate the main class and run the application.
-
-## How to Play
-
-The game is played by entering text commands in the terminal.
-Type help to display the available commands.
-Use the movement commands to navigate through the dungeon.
-Explore rooms and use the information you discover to progress through the game.
-Follow the game's instructions to achieve your objective.
 
 ## Project Status
 
